@@ -6,7 +6,7 @@ export const site = {
   location: "Bengaluru, India",
   email: "vamshigowda46@gmail.com",
   linkedin: "https://www.linkedin.com/in/vamshi-gowda-s-671710300",
-  resume: "/resume.pdf",
+  resume: "/myresume.pdf",
   availability: "Open to opportunities",
   summary:
     "AI/ML undergraduate building practical intelligent systems and full-stack applications that solve real-world problems.",
